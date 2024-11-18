@@ -1,6 +1,6 @@
 #################################################################
 # FILE : battleship.py
-# WRITER : Or Forshmit , or_forshmit8 , 327795464
+# WRITER : Or Forshmit , or_forshmit8
 # EXERCISE : intro2cs1 ex4 2024
 # DESCRIPTION: A simple program that generates battleships game!
 #################################################################
