@@ -1,7 +1,7 @@
 # 🚢 Battleships
 This repository contains the implementation of Exercise 4 from the course [**67101 - Introduction to Computer Science**](https://shnaton.huji.ac.il/index.php/NewSyl/67101/2/2024/) at The Hebrew University o Jerusalem ([HUJI](https://en.huji.ac.il/)). \
 The project focuses on developing a console-based version of the classic Battleships game using Python. \
-The project received a final grade of 99.5.
+> 🎓 Final Grade: **99.5**
 
 # 🎮 Game Overview
 Battleships is a two-player strategy game where each player places ships on a grid and takes turns guessing the locations of the opponent's ships to sink them. \
